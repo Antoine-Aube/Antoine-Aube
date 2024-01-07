@@ -8,14 +8,16 @@
 <div align="center">
 🧗🏻‍♂️ I am a Software Engineer with a background in Fitness Facility Operations and Customer Experience 🧗🏻‍♂️
  <br>
+ <br>
  Specialized in Ruby on Rails
+ <br>
  <br>
  Learning JavaScript and Express.Js
  <br>
  <br>
 🌱 Turing School of Software & Design 🌱
  <br>
- Backend Software Certificate 2023
+ Backend Software Certificate 2024
 
  <br>
 </div><br>
