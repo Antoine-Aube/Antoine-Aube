@@ -36,19 +36,4 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="60" height="60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />
           
 
-</div><br><br>
 
-# GitHub Statistics
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Antoine-Aube&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="39%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine-Aube&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Antoine-Aube&&style=flat-square)
-
-<br />
