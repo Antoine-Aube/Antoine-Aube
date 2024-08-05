@@ -9,15 +9,8 @@
 🧗🏻‍♂️ I am a Software Engineer with a background in Fitness Facility Operations and Customer Experience 🧗🏻‍♂️
  <br>
  <br>
- Specialized in Ruby on Rails
+ Specialized in Vue.js and Go
  <br>
- <br>
- Learning JavaScript and Vue.Js
- <br>
- <br>
-🌱 Turing School of Software & Design 🌱
- <br>
- Backend Software Certificate 2024
 
  <br>
 </div><br>
